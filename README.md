@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Divyanshu Kumar Savita
+- 👋 Hi, I’m Divyanshu Kumar
 - 👀 I’m interested in programing and problem solving
 - 🌱 I’m currently learning Android development
 - 💞️ I’m looking to collaborate on development related projects
