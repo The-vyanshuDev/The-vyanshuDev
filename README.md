@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Divyanshu Kumar
 - 👀 I’m interested in programing and problem solving
-- 🌱 I’m currently learning Android development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on development related projects
-- 📫 You can contact me via email : kumar19divyanshu@gmail.com
+- 📫 You can contact me via email : thevyanshu30@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
